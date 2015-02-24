@@ -1,6 +1,4 @@
-# Zombine.js
+Zombine.js
 ===
 
-### Automatable headless browser using Phantom.js
-
-TODO
+Automatable headless browser using Phantom.js
