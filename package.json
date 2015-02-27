@@ -1,0 +1,30 @@
+{
+  "name": "zombine",
+  "version": "1.0.0",
+  "description": "Automatable headless browser using Phantom.js",
+  "main": "zombine.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.12",
+    "chai": "^2.1.0"
+  },
+  "devDependencies": {
+    "chai-as-promised": "^4.2.0",
+    "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexvanmaele/zombine.git"
+  },
+  "author": "Alex Van Maele (http://github.com/alexvanmaele)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexvanmaele/zombine/issues"
+  },
+  "homepage": "https://github.com/alexvanmaele/zombine"
+}
